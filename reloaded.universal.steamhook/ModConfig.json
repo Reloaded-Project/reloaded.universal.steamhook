@@ -1,0 +1,11 @@
+{
+  "ModId": "reloaded.universal.steamhook",
+  "ModName": "Steam Hook",
+  "ModAuthor": "Sewer56",
+  "ModVersion": "1.0.0",
+  "ModDescription": "A mod that tricks steam into not restarting the game when launched by an external application by dropping steam_appid.txt and hooking some functions. Note: Does not touch DRM.",
+  "ModDll": "reloaded.universal.steamhook.dll",
+  "ModIcon": "Preview.png",
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "SupportedAppId": []
+}
